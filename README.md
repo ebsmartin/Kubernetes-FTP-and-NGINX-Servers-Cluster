@@ -1,7 +1,7 @@
 # Kubernetes-FTP-and-NGINX-Servers-Cluster
-Deploying Containerized FTP and NGINX™ Servers Across a Raspberry Pi Cluster Kubernetes Framework with Built in Physical Tamper Detection Sensing
+Deploying Containerized FTP and NGINX™ Servers Across a Raspberry Pi Cluster Kubernetes Framework with Built-in Physical Tamper Detection Sensing
 
-See the report for this project at the follwing link:
+See the report for this project at the following link:
 
 https://drive.google.com/file/d/1hWVZqEzVuqzhyMYOJNhuFaK9-N_ODQLZ/view?usp=sharing
 
